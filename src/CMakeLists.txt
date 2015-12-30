@@ -29,4 +29,4 @@ set(ekats_source_files
 set(CMAKE_LIBRARY_OUTPUT_DIRECTORY "${Project_HOME_DIR}/lib")
 
 add_library(ekats ${ekats_source_files})
-target_link_libraries(kats)
+target_link_libraries(ekats)
