@@ -1,5 +1,5 @@
 # eKATS
-## elastic Kernel Averaging of Time Series
+## time elastic Kernel Averaging of Time Series
 
 Implementation of the code defined and used in [1]. Documentation is in /doc directory.
 
