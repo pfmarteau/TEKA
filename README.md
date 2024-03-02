@@ -8,5 +8,6 @@ Please cite the following paper if needed:
 
 [1] Marteau, P.F., Times series averaging and denoising from a probabilistic perspective on time-elastic kernels
 International Journal of Applied Mathematics and Computer Science, De Gruyter 
+
 -[pdf](https://hal.archives-ouvertes.fr/hal-01401072) 
 -[bibtex](doc/marteau2016.bib)
