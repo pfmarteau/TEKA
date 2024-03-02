@@ -1,7 +1,7 @@
 # TEKA
 ## Time Elastic Kernel Averaging of Time Series
 
-Implementation of the code defined and used in [1]. Documentation is in /doc directory.
+Implementation of the code defined and experimented in [1]. Documentation is in /doc directory.
 For a python wrapper, please have a look at [py-TEKA](https://github.com/pfmarteau/py-TEKA)
 
 Please cite this article if you wish to reference TEKA:
