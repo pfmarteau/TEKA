@@ -7,4 +7,4 @@ For a python wrapper : [py-TEKA](https://github.com/pfmarteau/py-TEKA)
 Please cite the following paper if needed:
 
 [1] Marteau, P.F., Times series averaging and denoising from a probabilistic perspective on time-elastic kernels
-International Journal of Applied Mathematics and Computer Science, De Gruyter[https://arxiv.org/abs/1611.09194], [bibtex](doc/marteau2016.bib)
+International Journal of Applied Mathematics and Computer Science, De Gruyter [https://arxiv.org/abs/1611.09194], [bibtex](doc/marteau2016.bib)
